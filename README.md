@@ -15,6 +15,8 @@ Help founders describe their current challenge and receive structured AI advice 
 - **health_code.py** → checks outputs & prevents broken JSON
 - **main_app.py** → Streamlit app
 - **model.py** → configures LLMs
+- **requirements.txt** → lists Python dependencies for the project
+
 
 ## Challenges Faced
 - Ensuring consistent, valid JSON outputs for agent responses.
