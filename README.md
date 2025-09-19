@@ -24,6 +24,10 @@ Help founders describe their current challenge and receive structured AI advice 
 - Using health checks reduced invalid responses.
 - AI works better for structured frameworks rather than vague advice.
 
+## App Snippet
+![image](https://github.com/Chandu-2122/Startup-Advisor-Chatbot/blob/788a973dc22a78edea3d0fe544eb191bba97c9d4/Screenshot%202025-09-17%20224133.png)
+![image](https://github.com/Chandu-2122/Startup-Advisor-Chatbot/blob/788a973dc22a78edea3d0fe544eb191bba97c9d4/Screenshot%202025-09-17%20224143.png)
+
 ## Future Improvements
 - Add memory for ongoing conversations
 - Provide references for advice (case studies, frameworks).
